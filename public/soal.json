@@ -1,0 +1,20 @@
+[
+  {
+    "pertanyaan": "Siapa Presiden pertama Indonesia ?",
+    "jawaban": [
+      { "teks": "Ir. Soekarno", "benar": true },
+      { "teks": "Dn. Aidit", "benar": false },
+      { "teks": "Soeharto", "benar": false },
+      { "teks": "Megawati", "benar": false }
+    ]
+  },
+  {
+    "pertanyaan": "Kenapa Kamu tidak pacaran ?",
+    "jawaban": [
+      { "teks": "Fokus pendidikan😎", "benar": false },
+      { "teks": "Buang-buang waktu", "benar": false },
+      { "teks": "Ga punya uang😓", "benar": false },
+      { "teks": "Dilarang Agama☝️", "benar": true }
+    ]
+  }
+]
